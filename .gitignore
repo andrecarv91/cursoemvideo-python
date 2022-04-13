@@ -1,5 +1,6 @@
 notes/
 venv/
 .vscode/
+uteis/
 *.mp3
 pratica.py
